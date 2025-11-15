@@ -33,3 +33,20 @@
 | _______________________ | ______________ | _________ |
 
 ---
+
+## 🧰 Tecnologías utilizadas
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans_IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+---
+
+## ✉️ Contacto
+
+📧 **Correo:** marlonrojasuniversity@gmail.com  
+💼 **GitHub:** [MarloninoRG](https://github.com/MarloninoRG)
+
+---
+
+> _“La disciplina es la base de la perfección.”_ 💡
