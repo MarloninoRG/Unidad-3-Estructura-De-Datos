@@ -20,7 +20,14 @@
 #### Documentos
 | 📄 Nombre del archivo | 🧾 Descripción | 🔗 Enlace |
 |-----------------------|-----------------|-----------|
-| `EJEGUI1_MarlonRojas_GTID141.pdf` | Capturas de pantalla del ejercicio | [Ver documento](./Documentos/EjerciciosGuiados/EJEGUI1U3_MarlonRojasGalindo_GTID141.pdf)
+| `EJEGUI1_VENTANA_SWING_MarlonRojas_GTID141.pdf` | Capturas de pantalla del ejercicio | [Ver documento](./Documentos/EjerciciosGuiados/EJEGUI1U3_VENTANA_SWING_MarlonRojasGalindo_GTID141.pdf) |
+
+### 📝 Ejercicio Guiado 2: Nearpod Árboles
+
+#### Documentos
+| 📄 Nombre del archivo | 🧾 Descripción | 🔗 Enlace |
+|-----------------------|-----------------|-----------|
+| `EJEGUI2_NEARPOD_ARBOLES_MarlonRojas_GTID141.pdf` | Capturas de pantalla de los ejercicios y apuntes de libreta | [Ver documento](./Documentos/EjerciciosGuiados/EJEGUI2U3_NEARPOD_ARBOLES_MarlonRojasGalindo_GTID141.pdf) |
 
 ---
 
