@@ -27,7 +27,7 @@
 #### Documentos
 | 📄 Nombre del archivo | 🧾 Descripción | 🔗 Enlace |
 |-----------------------|-----------------|-----------|
-| `EJEGUI2_NEARPOD_ARBOLES_MarlonRojas_GTID141.pdf` | Capturas de pantalla de los ejercicios y apuntes de libreta | [Ver documento](./Documentos/EjerciciosGuiados/EJEGUI2U3_NEARPOD_ARBOLES_MarlonRojasGalindo_GTID141.pdf) |
+| `EJEGUI2_NEARPOD_ARBOLES_MarlonRojas_GTID0141.pdf` | Capturas de pantalla de los ejercicios y apuntes de libreta | [Ver documento](./Documentos/EjerciciosGuiados/EJEGUI2U3_NEARPOD_ARBOLES_MarlonRojasGalindo_GTID0141.pdf) |
 
 ---
 
