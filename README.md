@@ -33,9 +33,12 @@
 
 ## 🧪 Ejercicios Prácticos
 
+### 💻 Ejercicio Practico 1: Identificación de elementos de un Árbol
+
+#### Documentos
 | 📄 Nombre del ejercicio | 🧾 Descripción | 🔗 Enlace |
 |-------------------------|----------------|-----------|
-| _______________________ | ______________ | _________ |
+| `EJEPRA1_Identificacion_de_elementos_Arboles_MarlonRojas_GTID141.pdf` | Escaneo de las actividades en el cuaderno y calificación | [Ver Documento](./Documentos/EjerciciosPracticos/EJEPRA1_Identificacion_de_elementos_Arboles_MarlonRojas_GTID141.pdf) |
 | _______________________ | ______________ | _________ |
 | _______________________ | ______________ | _________ |
 
