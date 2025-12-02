@@ -29,6 +29,30 @@
 |-----------------------|-----------------|-----------|
 | `EJEGUI2_NEARPOD_ARBOLES_MarlonRojas_GTID0141.pdf` | Capturas de pantalla de los ejercicios y apuntes de libreta | [Ver documento](./Documentos/EjerciciosGuiados/EJEGUI2U3_NEARPOD_ARBOLES_MarlonRojasGalindo_GTID0141.pdf) |
 
+### 📝 Ejercicio Guiado 3: Árboles en Java
+
+#### Documentos
+| 📄 Nombre del archivo | 🧾 Descripción | 🔗 Enlace |
+|-----------------------|-----------------|-----------|
+| `EJEGUI3U3_ARBOLES_MarlonRojasGalindo.pdf` | Apuntes de libreta sobre los ejercicios | [Ver documento](./Documentos/EjerciciosGuiados/EJEGUI3U3_ARBOLES_MarlonRojasGalindo.pdf) |
+
+#### Código
+| 📄 Nombre del archivo | 🧾 Descripción | 🔗 Enlace |
+|-----------------------|-----------------|-----------|
+| `ArbolBinario.java`| Arbol binario implementado en Java | [Ver codigo](./Codigo/EjerciciosGuiados/arbolbinario/ArbolBinario.java) |
+| `NodoArbol.java` | Nodo de un árbol implementado en Java | [Ver codigo](./Codigo/EjerciciosGuiados/arbolbinario/NodoArbol.java) |
+| `PruebaArbol.java` | Clase de prueba de un Árbol binario en java | [Ver codigo](./Codigo/EjerciciosGuiados/arbolbinario/PruebaArbol.java) |
+
+### 📝 Ejercicio Guiado 4: Nearpod Conjuntos
+#### Documentos
+| 📄 Nombre del archivo | 🧾 Descripción | 🔗 Enlace |
+|-----------------------|-----------------|-----------|
+| `EJEGUIA4U3_NEARPOD_CONJUNTOS_MarlonRojasGalindo.pdf` | Apuntes y capturas sobre el Nearpod de Conjuntos | [Ver documento](./Codigo/EjerciciosGuiados/arbolbinario/PruebaArbol.java) |
+
+#### Código
+| 📄 Nombre del archivo | 🧾 Descripción | 🔗 Enlace |
+|-----------------------|-----------------|-----------|
+| `Main.java` | Clase de preuba para implementar código de Nearpod | [Ver codigo](./Codigo/EjerciciosGuiados/conjunto/Main.java) |
 ---
 
 ## 🧪 Ejercicios Prácticos
