@@ -53,6 +53,12 @@
 | 📄 Nombre del archivo | 🧾 Descripción | 🔗 Enlace |
 |-----------------------|-----------------|-----------|
 | `Main.java` | Clase de preuba para implementar código de Nearpod | [Ver codigo](./Codigo/EjerciciosGuiados/conjunto/Main.java) |
+
+### 📝 Ejercicio Guiado 5: Mapa Mental de la Materia
+| Imagen | Descripción |
+|--------|-------------|
+|![ImagenMapa](./Documentos/EjerciciosGuiados/mapa2.jpeg)| Imagen del mapa mental |
+|![ImagenCalificacion](./Documentos/EjerciciosGuiados/mapa1.jpeg) | Imagen de la calificación obtenida |
 ---
 
 ## 🧪 Ejercicios Prácticos
