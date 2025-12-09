@@ -59,6 +59,12 @@
 |--------|-------------|
 |![ImagenMapa](./Documentos/EjerciciosGuiados/mapa2.jpeg)| Imagen del mapa mental |
 |![ImagenCalificacion](./Documentos/EjerciciosGuiados/mapa1.jpeg) | Imagen de la calificación obtenida |
+
+### 📝 Ejercicio Guiado 6: Nearpod Diccionarios
+#### Documentos
+| 📄 Nombre del archivo | 🧾 Descripción | 🔗 Enlace |
+|-----------------------|-----------------|-----------|
+| `EJEGUIA6U3_NEARPOD_DICCIONARIOS_MarlonRojasGalindo.pdf` | Apuntes y capturas sobre el Nearpod de Diccionarios | [Ver documento](./Documentos/EjerciciosGuiados/EJEGUI5U3_NEARPOD_DICCIONARIOS_MarlonRojasGalindo.pdf) |
 ---
 
 ## 🧪 Ejercicios Prácticos
