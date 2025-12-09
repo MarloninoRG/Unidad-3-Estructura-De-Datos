@@ -95,7 +95,7 @@ Aplicación que simula la creación de una página web mediante un árbol DOM, m
 #### Video de demostración
 | 🎬 Video | 🧾 Descripción |
 |----------|----------------|
-| [Ver video](./Codigo/EjerciciosPracticos/Video_demostracion/ejercicio1.mp4) | Demostración del funcionamiento del Simulador DOM |
+| [Ver video](https://youtu.be/lR8D9_nO4N0) | Demostración del funcionamiento del Simulador DOM |
 
 #### Funcionalidades
 - ✅ Visualización del árbol DOM con JTree
@@ -122,7 +122,7 @@ Aplicación educativa para comprender los conceptos de árboles binarios de bús
 #### Video de demostración
 | 🎬 Video | 🧾 Descripción |
 |----------|----------------|
-| [Ver video](./Codigo/EjerciciosPracticos/Video_demostracion/ejercicio2.mp4) | Demostración del Visualizador ABB |
+| [Ver video](https://youtu.be/-DguD4gMtG0) | Demostración del Visualizador ABB |
 
 #### Funcionalidades
 - ✅ Visualización gráfica del árbol con nodos y conexiones
@@ -148,7 +148,7 @@ Aplicación que utiliza conjuntos de Java para gestionar colecciones de videojue
 #### Video de demostración
 | 🎬 Video | 🧾 Descripción |
 |----------|----------------|
-| [Ver video](./Codigo/EjerciciosPracticos/Video_demostracion/ejercicio3.mp4) | Demostración de la aplicación de Conjuntos |
+| [Ver video](https://youtu.be/-sWUTrxX6nI) | Demostración de la aplicación de Conjuntos |
 
 #### Datos manejados (5 atributos)
 | Atributo | Tipo | Ejemplo |
